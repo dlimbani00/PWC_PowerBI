@@ -1,7 +1,5 @@
 # PwC Switzerland Power BI Job Simulation
-During this job simulation, I enhanced my Power BI skills and demonstrated my ability to understand client needs for data visualization. Below are the key objectives achieved:
-
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+During this job simulation, I enhanced my Power BI skills and demonstrated my ability to understand client needs for data visualization. Below are the key objectives achieved
 
 ## Objectives achieved
 
